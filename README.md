@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @Hassan14120
-- 👀 I’m interested in Coding and make some change of all applications and network at all
-- 🌱 I’m currently learning how to be a professional developper and i will work to be like that
-- 💞️ I’m looking to collaborate on many companies and internship.
+### Hi, I'm Here 👋
 
-<!---
-Hassan14120/Hassan14120 is a ✨ developper with android ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> This is Hassan, a Web Developer From Lebanon. 
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I like group programming, if you are too, I am very happy that we can lift the friendship together and make it special.</em>
+
+I am currently studying PHP . <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+### Learning progress
+- HTML ![HTML learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=65&leftFill=%23663333 )
+
+- Front-end ![Front-end learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=56&leftFill=%23FF0000 )
+
+- CSS ![ CSS learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=45&leftFill=%233300FF)
+
+- PYTHON ![PYTHON learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=30&leftFill=%23999900)
+
+####
