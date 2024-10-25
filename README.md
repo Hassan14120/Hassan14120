@@ -6,7 +6,6 @@
 
 - 🛠️ I’m currently working as a **Fontend Web Developer & Soical Media Manager**
 - 📚 Working on a **Social Media Auto Publisher Project**
-- 💬 Ask me about **anything Sharing Data**
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/al-shab-hassan-ba3a06297/)
 
 
